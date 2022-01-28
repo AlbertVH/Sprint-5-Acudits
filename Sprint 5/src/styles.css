@@ -1,0 +1,32 @@
+body{
+    background-image: url(images/Party.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+.container{
+    opacity: 0.88;
+    margin-top: 2rem;
+}
+
+h3{
+    color: steelblue;
+}
+
+
+/*BOTONES OPINION */
+
+.mal{
+    background-color: rgb(252, 14, 14);
+}
+
+.regular{
+    background-color: salmon;
+    margin-left: 0.5rem;
+}
+
+.bien{
+    background-color: springgreen;
+    margin-left: 0.5rem;
+}
